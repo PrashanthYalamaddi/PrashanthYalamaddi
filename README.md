@@ -44,7 +44,7 @@
 .`                                 `/
 ```
 
-My degree says **AI & Machine Learning** — my terminal says **cloud infrastructure, DevOps, and pixel-perfect frontend**. I'm an undergrad figuring out how modern cloud systems are designed, deployed, and automated, while building high-fidelity UIs on the side. Everything I learn gets built, broken, fixed, and pushed here.
+My B.tech degree says **AI & Machine Learning** — my terminal says **cloud infrastructure, DevOps, and pixel-perfect frontend**. I'm an undergrad figuring out how modern cloud systems are designed, deployed, and automated, while building high-fidelity UIs on the side. Everything I learn gets built, broken, fixed, and pushed here.
 
 ---
 
