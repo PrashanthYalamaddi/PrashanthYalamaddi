@@ -1,239 +1,243 @@
-<!-- ========================================================= -->
-<!--                 GitHub Profile README                     -->
-<!--               Prashanth Yalamaddi                         -->
-<!-- ========================================================= -->
+<!-- ============================================================ -->
+<!--   ~/.github/README.md — Prashanth Yalamaddi                  -->
+<!--   theme: arch terminal • 100% paste-and-go • no workflows    -->
+<!-- ============================================================ -->
 
 <div align="center">
 
-# 👋 Hi, I'm Prashanth Yalamaddi
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:1a1b26,100:1793d1&height=180&section=header&text=%5Bprashanth%40arch%20~%5D%24%20whoami&fontSize=34&fontColor=39D353&animation=fadeIn&fontAlignY=40" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=0EA5E9&center=true&vCenter=true&width=900&lines=AI+%26+ML+Student;Aspiring+Cloud+Engineer;Frontend+%26+UI%2FUX+Developer;Docker+%7C+Kubernetes+%7C+Linux;DevOps+Enthusiast;Building+One+Project+at+a+Time" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=39D353&center=true&vCenter=true&width=820&lines=AI+%26+ML+Student+%40+Hyderabad;Cloud+Engineer+in+the+Making+%E2%98%81;Frontend+%2B+UI%2FUX+Developer;Docker+%E2%80%A2+Kubernetes+%E2%80%A2+Terraform;Dotfiles+Author+%E2%80%A2+Hyprland+Ricer;I+use+Arch%2C+btw." alt="Typing SVG" />
 
-### ☁️ Passionate about Cloud Computing • AI/ML • UI/UX • Open Source
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:2563EB&height=170&section=header&text=Welcome%20to%20My%20GitHub&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+<img src="https://img.shields.io/badge/os-arch_linux%2C_btw-1793D1?style=for-the-badge&logo=archlinux&logoColor=white&labelColor=0d1117" alt="Arch Linux" />
+<img src="https://img.shields.io/badge/wm-hyprland-58E1FF?style=for-the-badge&logo=hyprland&logoColor=white&labelColor=0d1117" alt="Hyprland" />
+<img src="https://img.shields.io/badge/shell-zsh_%2B_starship-DD0B78?style=for-the-badge&logo=starship&logoColor=white&labelColor=0d1117" alt="zsh + starship" />
+<img src="https://komarev.com/ghpvc/?username=PrashanthYalamaddi&label=visitors&color=39d353&style=for-the-badge" alt="Profile views" />
 
 </div>
 
 ---
 
-# 💫 About Me
+## 🐧 `$ neofetch`
 
-I'm **Prashanth Yalamaddi**, an **Artificial Intelligence & Machine Learning** student at **MALLA REDDY VISHWAVIDYAPEETH, Hyderabad, India**.
+```
+                  -`                    prashanth@arch
+                 .o+`                   ─────────────────────────────────
+                `ooo/                   OS       : Arch Linux x86_64 (btw)
+               `+oooo:                  Host     : Malla Reddy Vishwavidyapeeth, HYD
+              `+oooooo:                 Kernel   : B.Tech — AI & Machine Learning
+              -+oooooo+:                Uptime   : learning in public since 2024
+            `/:-:++oooo+:               Shell    : zsh + starship
+           `/++++/+++++++:              WM       : Hyprland + Waybar
+          `/++++++++++++++:             Terminal : kitty
+         `/+++ooooooooooooo/`           CPU      : Cloud Computing (all cores)
+        ./ooosssso++osssssso+`          GPU      : UI/UX & Frontend Design
+       .oossssso-````/ossssss+`         Memory   : Docker | K8s | Terraform | React
+      -osssssso.      :ssssssso.        Audio    : hi-res lossless, always
+     :osssssss/        osssso+++.
+    /ossssssss/        +ssssooo/-       ██ ██ ██ ██ ██ ██ ██ ██
+  `/ossssso+/:-        -:/+osssso+-
+ `+sso+:-`                 `.-/+oso:
+`++:.                           `-/+/
+.`                                 `/
+```
 
-While my academic program focuses on AI & ML, I have a deep passion for **Cloud Computing**, **Frontend Development**, and **UI/UX Design**. 
-
-I'm currently learning how modern cloud infrastructure is designed, deployed, and automated, while simultaneously building intuitive, high-fidelity user interfaces.
-
-I enjoy spending time exploring:
-
-- ☁️ Cloud Platforms & DevOps
-- 🐧 Arch Linux & Custom Environments
-- 🎨 UI/UX Design & Brand Identity
-- 🤖 Advanced Prompt Engineering 
-- 🐳 Docker & Kubernetes
-- 🛡️ Cloud Security & Infrastructure as Code
-
-I believe in **learning by building**, and my GitHub will grow alongside my technical journey with practical projects, automation workflows, and cloud labs.
-
----
-
-# 🚀 Current Focus
-
-| 🌱 Currently Learning | 🚀 Working Towards |
-|-----------------------|-------------------|
-| ☁️ AWS & GCP Fundamentals | Building Cloud Projects |
-| 🤖 AI Model Behavior & Prompting | Integrating Google AI Studio |
-| ⚛️ React 18 & Tailwind CSS | High-Fidelity Interactive Prototypes |
-| 🐳 Docker & Kubernetes | Containerized Applications |
-| 🐧 Linux Administration | Mastering Arch Linux & Shell Skills |
-| ⚙️ Automation Tools | Building Workflows with n8n |
+My degree says **AI & Machine Learning** — my terminal says **cloud infrastructure, DevOps, and pixel-perfect frontend**. I'm an undergrad at Malla Reddy Vishwavidyapeeth (Hyderabad) figuring out how modern cloud systems are designed, deployed, and automated, while building high-fidelity UIs on the side. Everything I learn gets built, broken, fixed, and pushed here.
 
 ---
 
-# 💻 Tech Stack
+## 📦 `$ sudo pacman -Syu skills`
 
-## 👨‍💻 Programming & Scripting
+```
+:: Synchronizing package databases...
+ core.cloud        is up to date
+ extra.frontend    is up to date
+:: Starting full system upgrade...
+resolving dependencies... looking for conflicting packages... none.
+
+Packages (10):
+
+ react-uiux       [████████████████░░░░]  80%   upgrading   high-fidelity prototypes
+ linux-arch       [████████████████░░░░]  80%   upgrading   daily driver, rice from scratch
+ ai-prompting     [████████████░░░░░░░░]  60%   installing  structured prompts, AI Studio
+ git-github       [████████████░░░░░░░░]  60%   installing  version control, Actions CI/CD
+ networking       [████████████░░░░░░░░]  60%   installing  cloud infra foundations
+ docker           [████████████░░░░░░░░]  60%   installing  containerize all the things
+ aws-gcp          [████████░░░░░░░░░░░░]  40%   downloading cloud fundamentals -> certs
+ n8n-automation   [████████░░░░░░░░░░░░]  40%   downloading workflow automation
+ kubernetes       [████░░░░░░░░░░░░░░░░]  20%   queued      orchestration is next
+ terraform        [████░░░░░░░░░░░░░░░░]  20%   queued      infrastructure as code
+
+:: Proceed with installation? [Y/n] Y
+```
+
+---
+
+## 🧰 `$ pacman -Q --explicit`
+
+#### `languages/`
+
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,c,js,bash" />
+<img src="https://skillicons.dev/icons?i=python,java,c,js,bash&theme=dark" alt="Languages" />
 </p>
 
-## 🌐 Frontend & Web Development
+#### `frontend/`
+
 <p>
-<img src="https://skillicons.dev/icons?i=react,tailwind,vite,html,css,nodejs" />
+<img src="https://skillicons.dev/icons?i=react,tailwind,vite,html,css,nodejs&theme=dark" alt="Frontend" />
 </p>
 
-## ☁️ Cloud Platforms & DevOps
+#### `cloud-devops/`
+
 <p>
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,git,github,githubactions,terraform" />
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,git,github,githubactions,terraform&theme=dark" alt="Cloud & DevOps" />
 </p>
 
-## ⚙️ AI, Backend & Automation
+#### `ai-backend-automation/`
+
 <p>
-<img src="https://skillicons.dev/icons?i=supabase,copilot,postman" />
+<img src="https://skillicons.dev/icons?i=supabase,copilot,postman&theme=dark" alt="AI & Backend" />
 </p>
 
-## 🖥️ Operating Systems & Tools
+#### `os-tools/`
+
 <p>
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,vscode,figma&theme=dark" alt="OS & Tools" />
 </p>
 
 ---
 
-# 🏗️ Featured Experience & Projects
+## 🌱 `$ git log --oneline --graph`
 
-* **Frontend Prototype Development:** Designed and developed a high-fidelity interactive prototype for a fintech website using React 18, Tailwind CSS, and Vite.
-* **Brand Identity & UI/UX:** Managed graphic design, logo creation, and corporate advertisements for Renuka Security & Facility Management Services (JNTU, Kukatpally, Hyderabad) using Canva Pro.
-* **Python Automation:** Scripted a comprehensive presentation on Multi-Qubit Gates using the Python `pptx` library for a Fundamentals of Quantum Computing (FQC) course.
-* **AI & Prompt Engineering:** Actively experimenting with complex, structured prompts and integrating AI workflows using tools like Google AI Studio and GitHub Copilot.
+```
+* f4e2a1c (HEAD -> main) feat: fintech site prototype — React 18 + Tailwind + Vite
+* c3d9b72 design: brand identity for Renuka Security & FMS — logos, ads, Canva Pro
+* 8a1f5e3 build: auto-generated Multi-Qubit Gates deck with python-pptx (FQC course)
+* 5b7c2d9 research: structured prompt engineering — Google AI Studio + GitHub Copilot
+* 2e9a4f1 chore(dotfiles): Hyprland + Waybar + Starship + Kitty — riced from scratch
+* 0a1b2c3 init: hello, world
+```
 
 ---
 
-# 📊 GitHub Statistics
+## 🚀 `$ docker ps` — projects shipping soon
+
+```
+CONTAINER ID   IMAGE                          STATUS               PORTS
+3f2a9c1e8b7d   docker-labs:latest             Up - building        0.0.0.0:2026
+9d8e7f6a5b4c   react-ui-components:latest     Up - building        0.0.0.0:3000
+1a2b3c4d5e6f   cloud-arch-labs:aws            Created - soon       0.0.0.0:443
+7c6b5a4d3e2f   arch-dotfiles:hyprland         Restarting - rice    0.0.0.0:1337
+4e5f6a7b8c9d   devops-pipelines:cicd          Created - soon       0.0.0.0:8080
+b1c2d3e4f5a6   ai-automation:n8n              Created - soon       0.0.0.0:5678
+```
+
+*Every container ships to this profile as it builds — watch this space.*
+
+---
+
+## 🎯 `$ cat ~/.config/github/goals-2026.conf`
+
+```ini
+[goals.2026]
+repositories   = 25+ cloud computing & web-dev repos
+docker         = master fundamentals
+kubernetes     = learn fundamentals
+frontend       = deploy modern apps to cloud platforms
+terraform      = practice infrastructure as code
+ci_cd          = pipelines with GitHub Actions
+certifications = industry-recognized cloud certs
+consistency    = commit. push. repeat.
+
+[status]
+state          = active (running)
+```
+
+---
+
+## 📊 `$ gh stats --user PrashanthYalamaddi`
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PrashanthYalamaddi&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PrashanthYalamaddi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&ring_color=39d353" alt="GitHub stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrashanthYalamaddi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrashanthYalamaddi&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=PrashanthYalamaddi&theme=tokyonight&hide_border=true&background=0d1117&ring=39d353&fire=39d353&currStreakLabel=39d353" alt="Streak" />
 
-</div>
+<img src="https://github-profile-trophy.vercel.app/?username=PrashanthYalamaddi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4" alt="Trophies" />
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=PrashanthYalamaddi&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrashanthYalamaddi&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=PrashanthYalamaddi&theme=algolia&no-frame=true&margin-w=10&margin-h=10"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrashanthYalamaddi&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# ⚡ Fun Facts
-
-- 🐧 I run a dual-boot setup (Windows 11 & Linux) and I am a huge fan of **Arch Linux**. 
-- 💻 I created my own custom dotfiles, a highly customized lock screen, and window manager setups from scratch using Hyprland, Waybar, Starship, and Kitty.
-- 🎧 I am a bit of an audiophile—you can usually find me coding while streaming high-resolution, lossless audio.
-
----
-
-# 🛣️ Learning Journey
-
-| Technology | Progress |
-|------------|----------|
-| ⚛️ React & UI/UX | 🟩🟩🟩🟩⬜ |
-| 🐧 Linux | 🟩🟩🟩🟩⬜ |
-| 🔧 Git | 🟩🟩🟩⬜⬜ |
-| ☁️ AWS / GCP | 🟩🟩⬜⬜⬜ |
-| 🐳 Docker | 🟩🟩🟩⬜⬜ |
-| ☸️ Kubernetes | 🟩⬜⬜⬜⬜ |
-| 🏗️ Terraform | 🟩⬜⬜⬜⬜ |
-| 🌐 Networking | 🟩🟩🟩⬜⬜ |
-
----
-
-# 📂 Planned Projects
-
-| Repository | Status |
-|------------|--------|
-| 🐳 Docker Labs | 🚧 Coming Soon |
-| ⚛️ React UI Components | 🚧 Coming Soon |
-| ☁️ Cloud Architecture Labs | 🚧 Coming Soon |
-| 🐧 Arch Linux Dotfiles | 🚧 Coming Soon |
-| ⚙️ DevOps Projects | 🚧 Coming Soon |
-| 🤖 AI Automation Scripts | 🚧 Coming Soon |
-
----
-
-# 🎯 GitHub Goals (2026)
-
-- ✅ Build **25+ Cloud Computing & Web Dev repositories**
-- ✅ Master Docker fundamentals
-- ✅ Learn Kubernetes fundamentals
-- ✅ Deploy modern frontend applications to cloud platforms
-- ✅ Practice Infrastructure as Code using Terraform
-- ✅ Learn CI/CD with GitHub Actions
-- ✅ Earn industry-recognized cloud certifications
-- ✅ Stay consistent with GitHub contributions
-
----
-
-# 🏅 Learning Philosophy
-
-> **"The best way to learn cloud computing isn't by reading about it—it's by building, breaking, fixing, and repeating."**
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-| Platform | Link |
-|----------|------|
-| 💼 LinkedIn | [Prashanth Yalamaddi](https://www.linkedin.com/in/prashanth-yalamaddi-08ab6a2b3/) |
-| 📧 Email | [prashanthyalamaddil@gmail.com](mailto:prashanthyalamaddil@gmail.com) |
-| 🌐 Portfolio | *Coming Soon* |
-| 🐦 X (Twitter) | *Coming Soon* |
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrashanthYalamaddi&bg_color=0d1117&color=7dcfff&line=39d353&point=ffffff&area=true&area_color=39d353&hide_border=true&custom_title=git%20activity%20%E2%80%94%20packets%20over%20time" alt="Activity graph" />
 
 </div>
 
 ---
 
-# 👀 Visitor Counter
+## 🎧 `$ cat /var/log/prashanth/fun-facts.log`
+
+```
+[  OK  ] boot: dual-boot online — Windows 11 + Arch Linux (Arch gets the good SSD)
+[  OK  ] dotfiles: custom lockscreen, Hyprland, Waybar, Starship, Kitty — hand-built
+[  OK  ] audio.service: streaming hi-res lossless while coding, always
+[ WARN ] user says "I use Arch btw" more often than statistically necessary
+```
+
+---
+
+## 🐮 `$ fortune | cowsay`
+
+```
+ ________________________________________________
+/ The best way to learn cloud computing isn't by \
+| reading about it — it's by building, breaking, |
+\ fixing, and repeating.                         /
+ ------------------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
+
+---
+
+## 📡 `$ ping prashanth`
+
+```
+PING prashanth (hyderabad.in): 56 data bytes
+64 bytes: icmp_seq=1 ttl=64 time=0.042 ms   # fastest replies via linkedin
+64 bytes: icmp_seq=2 ttl=64 time=0.038 ms   # or drop a mail anytime
+64 bytes: icmp_seq=3 ttl=64 time=0.040 ms   # portfolio & x: deploying soon
+--- prashanth ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss — always online for cloud talk
+```
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=PrashanthYalamaddi&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+<a href="https://www.linkedin.com/in/prashanth-yalamaddi-08ab6a2b3/"><img src="https://img.shields.io/badge/linkedin-prashanth--yalamaddi-0A66C2?style=for-the-badge&labelColor=0d1117" alt="LinkedIn" /></a>
+<a href="mailto:prashanthyalamaddil@gmail.com"><img src="https://img.shields.io/badge/email-say_hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" /></a>
+<img src="https://img.shields.io/badge/portfolio-deploying...-39D353?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" alt="Portfolio" />
+<img src="https://img.shields.io/badge/x-%40coming__soon-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117" alt="X" />
+<a href="https://github.com/PrashanthYalamaddi?tab=followers"><img src="https://img.shields.io/github/followers/PrashanthYalamaddi?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=1793d1&label=followers" alt="Followers" /></a>
 
 </div>
 
 ---
 
-# ⭐ Thanks for Visiting!
+## ⏻ `$ sudo shutdown -h now`
+
+```
+[  OK  ] Stopped target Doomscrolling.
+[  OK  ] Reached target README Complete.
+[  OK  ] Thanks for visiting — leave a star on your way out.
+Connection to github.com closed.
+```
 
 <div align="center">
 
-### Thanks for stopping by!
-
-If you enjoy cloud computing, DevOps, frontend development, Linux ricing, or open-source technologies, feel free to explore my repositories and follow my learning journey.
-
-⭐ **Happy Coding & Happy Learning!**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0EA5E9&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1793d1,40:1a1b26,100:0d1117&height=120&section=footer" width="100%" />
 
 </div>
 
-<!--
-**PrashanthYalamaddi/PrashanthYalamaddi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- you read the source? sudo pacman -S respect — it's already installed for you -->
