@@ -1,6 +1,6 @@
 <!-- ============================================================ -->
 <!--   ~/.github/README.md — Prashanth Yalamaddi                  -->
-<!--   theme: arch terminal • 100% paste-and-go • no workflows    -->
+<!--   theme: arch terminal  • no workflows    -->
 <!-- ============================================================ -->
 
 <div align="center">
@@ -26,7 +26,7 @@
                   -`                    prashanth@arch
                  .o+`                   ─────────────────────────────────
                 `ooo/                   OS       : Arch Linux x86_64 (btw)
-               `+oooo:                  Host     : Malla Reddy Vishwavidyapeeth, HYD
+               `+oooo:                  Host     : Prashanth , HYD
               `+oooooo:                 Kernel   : B.Tech — AI & Machine Learning
               -+oooooo+:                Uptime   : learning in public since 2024
             `/:-:++oooo+:               Shell    : zsh + starship
@@ -44,7 +44,7 @@
 .`                                 `/
 ```
 
-My degree says **AI & Machine Learning** — my terminal says **cloud infrastructure, DevOps, and pixel-perfect frontend**. I'm an undergrad at Malla Reddy Vishwavidyapeeth (Hyderabad) figuring out how modern cloud systems are designed, deployed, and automated, while building high-fidelity UIs on the side. Everything I learn gets built, broken, fixed, and pushed here.
+My degree says **AI & Machine Learning** — my terminal says **cloud infrastructure, DevOps, and pixel-perfect frontend**. I'm an undergrad figuring out how modern cloud systems are designed, deployed, and automated, while building high-fidelity UIs on the side. Everything I learn gets built, broken, fixed, and pushed here.
 
 ---
 
